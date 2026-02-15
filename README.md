@@ -14,8 +14,6 @@
 
 ![N](https://raw.githubusercontent.com/ne-xa/ne-xa/832907f867a80dabb5fd2363cbc592b4c75e0f64/file/github-user-contribution.svg)
 
-![N](https://i.pinimg.com/736x/11/fb/10/11fb102aab7b59f72a1469693210af75.jpg)
-
 ![N](https://i.pinimg.com/originals/ab/be/08/abbe080e67b675db3ca0b346ab89fd03.gif)
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
